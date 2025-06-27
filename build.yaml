@@ -19,7 +19,7 @@
 #
 ---
 include:
-  - board: ggmmk_pro_ansi
+  - board: gmmk_pro_ansi
 #    snippet: studio-rpc-usb-uart
 #    cmake-args: -DCONFIG_ZMK_STUDIO=y
 #    artifact-name: gmmk_pro_with_studio
