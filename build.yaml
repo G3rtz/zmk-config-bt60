@@ -19,8 +19,7 @@
 #
 ---
 include:
-  - board: stm32f303
-    shield: gmmk_pro
-    snippet: studio-rpc-usb-uart
-    cmake-args: -DCONFIG_ZMK_STUDIO=y
-    artifact-name: gmmk_pro_with_studio
+  - board: ggmmk_pro_ansi
+#    snippet: studio-rpc-usb-uart
+#    cmake-args: -DCONFIG_ZMK_STUDIO=y
+#    artifact-name: gmmk_pro_with_studio
