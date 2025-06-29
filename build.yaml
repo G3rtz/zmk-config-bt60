@@ -18,7 +18,7 @@
 #     artifact-name: corne_left_with_studio
 #
 include:
-  - board: zmk-board-gmmk_pro
+  - board: gmmk_pro
 #    snippet: studio-rpc-usb-uart
 #    cmake-args: -DCONFIG_ZMK_STUDIO=y
 #    artifact-name: gmmk_pro_with_studio
